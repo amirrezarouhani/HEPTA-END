@@ -1,0 +1,151 @@
+@media screen and (max-width:1350px) {
+    .container-full {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .slider .slider-content h1 {
+        font-size: 50px;
+    }
+    .slider .slider-content p {
+        font-size: 20px;
+    }
+}
+@media screen and (max-width:1250px) {
+    .col-6 {
+        width: 100%;
+    }
+    .col-4 , .col-3 {
+        width: 50%;
+    }
+    .welcome-website {
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+    .welcome-website .p-l-40 {
+        padding-left: 0;
+    }
+    .welcome-website h1 {
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-left: 0;
+    }
+    .welcome-website p {
+        padding-left: 0;
+    }
+    .welcome-website .watch-video {
+        padding-left: 0;
+    }
+    .international-img {
+        width: 80%;
+        margin: 0 auto;
+    }
+    .recent-blog .rotate-box {
+        top: -15%;
+    }
+}
+@media screen and (max-width:1150px) {
+    .col-4 , .col-3 {
+        width: 100%;
+    }
+    .slider .slider-content h1 {
+        font-size: 35px;
+    }
+    .slider .slider-content p {
+        font-size: 15px;
+    }
+    .international-part1 h2 {
+        font-size: 50px;
+    }
+    .recent-blog .rotate-box {
+        top: -7%;
+    }
+    .recent-part1 h2 {
+        font-size: 50px;
+    }
+    .recent-part2 .blogs .bottom h3 {
+        font-size: 24px;
+    }
+    .happy-customers-title h2 {
+        font-size: 50px;
+    }
+}
+@media screen and (max-width:850px) {
+    .slider .header .logo a {
+        font-size: 25px;
+    }
+    .slider .header .menu {
+        margin-top: 13px;
+    }
+    .slider .slider-content p {
+        font-size: 12px;
+    }
+    .slider .slider-content a.button {
+        padding: 9px 17px;
+        letter-spacing: 2px;
+        font-size: 12px;
+    }
+    .recent-blog .rotate-box {
+        top: -5%;
+    }
+}
+@media screen and (max-width:650px) {
+    .slider .slider-content h1 {
+    font-size: 25px;
+    }
+    .slider .slider-content p {
+        font-size: 10px;
+    }
+    .slider .slider-content p a {
+        font-size: 10px;
+    }
+    .slider .slider-content a.button {
+        padding: 10px 20px;
+        letter-spacing: 1px;
+        font-size: 8px;
+        margin-top: 0;
+    }
+    .welcome-website h1 {
+        font-size: 25px;
+    }
+    .experience-part1 h2 {
+        font-size: 25px;
+    }
+    .experience-part2 h3 {
+        font-size: 25px;
+    }
+    .international-part1 h2 {
+        font-size: 33px;
+    }
+    .international-img .arrow {
+        display: none;
+    }
+    .recent-part1 h2 {
+        font-size: 33px;
+    }
+    .happy-customers-title h2 {
+        font-size: 33px;
+    }
+    .top-destination-part1 h2 {
+        font-size: 30px;
+    }
+}
+@media screen and (max-width:450px) {
+    .experience-part1 h2 {
+        font-size: 24px
+    }
+    .experience-part2 h3 {
+        font-size: 24px;
+    }
+    .international-part1 h2 {
+        font-size: 24px;
+    }
+    .recent-part1 h2 {
+        font-size: 24px;
+    }
+    .happy-customers-title h2 {
+        font-size: 24px;
+    }
+    .top-destination-part1 h2 {
+        font-size: 24px;
+    }
+}
